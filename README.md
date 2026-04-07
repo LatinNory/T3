@@ -1,8 +1,15 @@
 # Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents (ICLR 2026 Oral)
 
-This repository contains the official implementation of T3 as described in the paper Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents by Deyu Zou, Yongqiang Chen, Jianxiang Wang, Garry YANG, Mufei Li, Qing Da, James Cheng, Pan Li, Yu Gong, which has been selected as **ICLR 2026 Oral Presentation**. The paper PDF is included in the repository root for reference.
+This repository contains the official implementation of T3 as described in the paper Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents by Deyu Zou, Yongqiang Chen, Jianxiang Wang, Garry YANG, Mufei Li, Qing Da, James Cheng, Pan Li, Yu Gong, which has been selected as **ICLR 2026 Oral Presentation**. 
+
+This repository contains code for the core T3 method, preprocessing, training/evaluation pipelines and scripts, and experiment setups from the paper. We have been **continuously extending this repository to support more general, popular, and realistic agentic scenarios**, so that T3 can be studied in broader interactive reasoning settings. 
 
 ![](./figs/main.png)
+
+## TODOs
+
+- In our [new work](https://arxiv.org/abs/2603.12109), we identify a unique mechanism, **information self-locking**, under multi-turn agentic reasoning and propose AREW to fix that. The corresponding code will be merged into this repository in a future update.
+- We have applied T3 and AREW to tau2-bench and release the code and results in this repo. Refer to this section: [Applicability to General Agentic Scenarios](#applicability-to-general-agentic-scenarios). Results on the effectiveness of T3 and AREW over Deep-Research and SWE settings will be released.
 
 ## Table of Contents
 
@@ -16,10 +23,6 @@ This repository contains the official implementation of T3 as described in the p
 - [Repository Structure](#repository-structure)
 - [Citation](#citation)
 
-## TODOs
-
-- In our [new work](https://arxiv.org/abs/2603.12109), we identify a unique mechanism, **information self-locking**, under multi-turn agentic reasoning and propose AREW to fix that. The corresponding code will be merged into this repository in a future update.
-- We have applied T3 and AREW to tau2-bench and release the code and results in this repo. Refer to this section: [Applicability to General Agentic Scenarios](#applicability-to-general-agentic-scenarios). Results on the effectiveness of T3 and AREW over Deep-Research and SWE settings will be released.
 
 ## Environment Setup
 
