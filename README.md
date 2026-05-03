@@ -57,7 +57,7 @@ Notes: the following is the version of key packages in the environment we are cu
 
 ## Data Preparation
 
-The released preprocessing scripts write parquet files in the format expected by `main_ppo.py`. The `jsonl` will be uploaded to Huggingface in a few days.
+The released preprocessing scripts write parquet files in the format expected by `main_ppo.py`. The dataset (parquet formats) can be found [here](https://huggingface.co/datasets/WorkingOut/T3_data).
 
 ### CircuitDecoding
 
