@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2510.12264">
-    <img src="https://img.shields.io/badge/arXiv-T3-b31b1b?logo=arxiv&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/arXiv-T3-b31b1b?logo=arxiv&logoColor=white&style=flat-square" />
   </a>
   <a href="https://arxiv.org/abs/2603.12109">
-    <img src="https://img.shields.io/badge/arXiv-AREW-b31b1b?logo=arxiv&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/arXiv-AREW-b31b1b?logo=arxiv&logoColor=white&style=flat-square" />
   </a>
   <a href="https://huggingface.co/datasets/WorkingOut/T3_data">
-    <img src="https://img.shields.io/badge/HuggingFace-T3_Data-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/HuggingFace-T3_Data-FFD21E?logo=huggingface&logoColor=black&style=flat-square" />
   </a>
   <a href="https://x.com/ZouDeyu56610/status/2041531834404852201">
-    <img src="https://img.shields.io/badge/X-Twitter_Post-000000?logo=x&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/X-Twitter_Post-000000?logo=x&logoColor=white&style=flat-square" />
   </a>
   <a href="http://xhslink.com/o/9S66Dkjx5t7">
-    <img src="https://img.shields.io/badge/Xiaohongshu-Blog-FF2442?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Xiaohongshu-Blog-FF2442?style=flat-square" />
   </a>
 </p>
 
