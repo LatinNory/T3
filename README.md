@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2510.12264">
-    <img src="https://img.shields.io/badge/arXiv-T3-b31b1b?logo=arxiv&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/arXiv-T3-b31b1b?logo=arxiv&style=flat-square" />
   </a>
   <a href="https://arxiv.org/abs/2603.12109">
-    <img src="https://img.shields.io/badge/arXiv-AREW-b31b1b?logo=arxiv&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/arXiv-AREW-b31b1b?logo=arxiv&style=flat-square" />
   </a>
   <a href="https://huggingface.co/datasets/WorkingOut/T3_data">
     <img src="https://img.shields.io/badge/HuggingFace-T3_Data-FFD21E?logo=huggingface&style=flat-square" />
