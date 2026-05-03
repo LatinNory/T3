@@ -1,5 +1,23 @@
 # (ICLR 2026 Oral) Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents 
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2510.12264">
+    <img src="https://img.shields.io/badge/arXiv-T3-b31b1b?logo=arxiv&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://arxiv.org/abs/2603.12109">
+    <img src="https://img.shields.io/badge/arXiv-AREW-b31b1b?logo=arxiv&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://huggingface.co/datasets/WorkingOut/T3_data">
+    <img src="https://img.shields.io/badge/HuggingFace-T3_Data-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/ZouDeyu56610/status/2041531834404852201">
+    <img src="https://img.shields.io/badge/X-Twitter_Post-000000?logo=x&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="http://xhslink.com/o/9S66Dkjx5t7">
+    <img src="https://img.shields.io/badge/Xiaohongshu-Blog-FF2442?style=for-the-badge" />
+  </a>
+</p>
+
 This repository contains the official implementation of T3 as described in the paper Reducing Belief Deviation in Reinforcement Learning for Active Reasoning of LLM Agents by Deyu Zou, Yongqiang Chen, Jianxiang Wang, Garry YANG, Mufei Li, Qing Da, James Cheng, Pan Li, Yu Gong, which has been selected as **ICLR 2026 Oral Presentation**. 
 
 This repository contains code for the core T3 method, preprocessing, training/evaluation pipelines and scripts, and experiment setups from the paper. We have been **continuously extending this repository to support more general, popular, and realistic agentic scenarios**, so that T3 can be studied in broader interactive reasoning settings. 
