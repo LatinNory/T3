@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/arXiv-AREW-b31b1b?logo=arxiv&logoColor=white&style=flat-square" />
   </a>
   <a href="https://huggingface.co/datasets/WorkingOut/T3_data">
-    <img src="https://img.shields.io/badge/HuggingFace-T3_Data-FFD21E?logo=huggingface&logoColor=black&style=flat-square" />
+    <img src="https://img.shields.io/badge/HuggingFace-T3_Data-FFD21E?logo=huggingface&style=flat-square" />
   </a>
   <a href="https://x.com/ZouDeyu56610/status/2041531834404852201">
     <img src="https://img.shields.io/badge/X-Twitter_Post-000000?logo=x&logoColor=white&style=flat-square" />
